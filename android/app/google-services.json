@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472691613395",
+    "project_id": "bio-access-5ff42",
+    "storage_bucket": "bio-access-5ff42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472691613395:android:7eba1467ba954fad32be26",
+        "android_client_info": {
+          "package_name": "com.bioacess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472691613395-92o5dg9a14qln3eofsgggfq0dn6th47f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bioacess",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "472691613395-ebi1c4kvl8grvt22alu5t8iosri0r0u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bioacess",
+            "certificate_hash": "e2b74afbacce935fbc517fb1fbe2bd513eeefb45"
+          }
+        },
+        {
+          "client_id": "472691613395-9srf6tin9c7asejnj8iuola0rbt2me0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1AwrMy43jl74itea5RUyyTDjjetrv6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472691613395-9srf6tin9c7asejnj8iuola0rbt2me0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
